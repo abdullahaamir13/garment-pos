@@ -50,7 +50,6 @@ http://localhost/garment-pos/login.php
 | Cashier | cashier  | cashier123   |
 
 ## Project Folder Structure
-
 garment-pos/
 ├── assets/
 ├── includes/
