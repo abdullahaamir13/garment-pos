@@ -67,11 +67,10 @@ http://localhost/garment-pos/login.php
 - Laravel version for enterprise scale
 
 ## Contribution
-Feel free to fork, use and modify this project for your own store.
-Pull requests are welcome.
+Feel free to fork. Pull requests are welcome.
 
 ## License
-This project is open-source and free to use under the MIT license.
+Copyright (c) 2025 Abdullah Aamir. All rights reserved. See COPYRIGHT for details. Permission is required for any use, modification, or distribution.
 
 ## Developed by Abdullah Aamir
    Contact: abdullahaamir977@gmail.com
