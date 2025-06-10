@@ -44,9 +44,10 @@ Place it in: C:/xampp/htdocs/
 http://localhost/garment-pos/login.php
 
 ## Demo Credentials
-"Role","Username","Password"
-"Admin","admin","admin123"
-"Cashier","cashier","cashier123"
+| Role    | Username | Password     |
+|---------|----------|--------------|
+| Admin   | admin    | admin123     |
+| Cashier | cashier  | cashier123   |
 
 ## Project Folder Structure
 garment-pos/
