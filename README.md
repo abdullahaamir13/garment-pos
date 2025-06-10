@@ -50,19 +50,7 @@ http://localhost/garment-pos/login.php
 | Cashier | cashier  | cashier123   |
 
 ## Project Folder Structure
-garment-pos/
-├── assets/
-├── includes/
-├── login.php
-├── logout.php
-├── admin_dashboard.php
-├── cashier_dashboard.php
-├── manage_inventory.php
-├── process_sale.php
-├── report.php
-├── receipt.php
-├── README.md
-└── asgarmentpos.sql
+![Project Folder Structure](https://github.com/user-attachments/assets/dcd433fa-cbc7-4afb-8949-4aa771ab6404)
 
 ## Admin Dashboard Preview
 - View total sales
@@ -87,4 +75,5 @@ This project is open-source and free to use under the MIT license.
 
 ## Developed by Abdullah Aamir
    Contact: abdullahaamir977@gmail.com
+
    LinkedIn: linkedin.com/in/abdullah-aamir/
